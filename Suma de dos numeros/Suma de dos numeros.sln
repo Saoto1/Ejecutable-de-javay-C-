@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma de dos numeros", "Suma de dos numeros\Suma de dos numeros.csproj", "{5AB68FAF-AEB6-4738-9A58-A144410312FB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Suma de dos numeros installer", "Suma de dos numeros installer\Suma de dos numeros installer.vdproj", "{E78B9A99-B8E9-40A8-8DE2-EF5D7D09BFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB68FAF-AEB6-4738-9A58-A144410312FB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB68FAF-AEB6-4738-9A58-A144410312FB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5AB68FAF-AEB6-4738-9A58-A144410312FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB68FAF-AEB6-4738-9A58-A144410312FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78B9A99-B8E9-40A8-8DE2-EF5D7D09BFD0}.Debug|Any CPU.ActiveCfg = Debug
+		{E78B9A99-B8E9-40A8-8DE2-EF5D7D09BFD0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6E48A9-17CE-4C8A-BED0-063F0EB4D6FF}
+	EndGlobalSection
+EndGlobal

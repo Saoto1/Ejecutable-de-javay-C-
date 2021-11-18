@@ -1,0 +1,14 @@
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Release\Suma de dos numeros.exe.config
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Release\Suma de dos numeros.exe.manifest
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Release\Suma de dos numeros.application
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Release\Suma de dos numeros.exe
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Release\Suma de dos numeros.pdb
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.csproj.AssemblyReference.cache
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma_de_dos_numeros.Form1.resources
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma_de_dos_numeros.Properties.Resources.resources
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.csproj.GenerateResource.cache
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.exe.manifest
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.application
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.exe
+C:\Users\Saul\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Release\Suma de dos numeros.pdb
